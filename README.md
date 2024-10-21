@@ -1,3 +1,4 @@
+# DATE:
 # EX-NO-6-Pseudo-Random-Number
 
 # AIM: 
